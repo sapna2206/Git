@@ -6,3 +6,4 @@ change 2:  by team mate for WI5- logout feature
 change 3:  to work on CR1 and added arrow sign
 change 4: team mate change
 change 5: 
+change 7: -> WI7 in progress
