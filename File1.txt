@@ -2,4 +2,4 @@ Hello World
 
 Change: to fix bug1
 
-change : - by team mate on remote
+change : - by team mate for WI5- logout feature 
