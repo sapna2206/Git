@@ -1,11 +1,13 @@
 Hello World
 
-Change 1: to fix bug1.
 
-change 2:  by team mate for WI5- logout feature. 
-change 3:  to work on CR1 and added arrow sign.
-change 4: team mate change.
+Change 1: To fix bug1
+
+change 2:  By team mate for WI5- logout feature 
+change 3:  To work on CR1 and added arrow sign
+change 4: Team mate change
 change 5: 
-change 7: -> WI7 in progress.
-change added on remote to test pull.
-Change 8:-> on remote mater by team mate to test rebase with conflict cr2.
+change 7: -> WI7 in progress
+change added on remote to test pull
+change 9: -> WI9 on local master to test conflict with remote master to verify rebase
+
